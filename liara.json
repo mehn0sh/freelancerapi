@@ -1,5 +1,8 @@
 {
-  "platform": "node",
-  "app": "finalapp-api",
-  "port": 3000
+  "app": "freelancer-app-test",
+  "port": 3000,
+  "build": {
+    "location": "iran"
+  },
+  "disks": []
 }
