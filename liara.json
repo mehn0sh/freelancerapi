@@ -1,6 +1,6 @@
 {
   "app": "freelancer-app-test",
-  "port": 3000,
+  "port": 5000,
   "build": {
     "location": "iran"
   },
